@@ -7,6 +7,10 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+// Register element
+console.log(Button)
+
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',

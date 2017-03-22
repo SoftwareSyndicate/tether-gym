@@ -1,13 +1,12 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <s-button></s-button>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
 }
 </script>
 
