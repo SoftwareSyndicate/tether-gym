@@ -25,8 +25,8 @@ export default {
     crumbs: 'crumbs',
     gym: 'gym'
   }),
-  created(){
-  }
+  
+  created(){}
 }
 </script>
 
